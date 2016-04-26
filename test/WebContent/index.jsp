@@ -56,7 +56,9 @@
 <input type="text" id="c">
 <input type="button" id="d1">
 <div id="r1"  ></div>
-
+<div id="r2">
+<h2>master</h2>
+</div>
 
 </body>
 </html>

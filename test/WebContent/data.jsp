@@ -12,7 +12,7 @@
 
 	Random r = new Random();
 
-	int a = r.nextInt(11);
+	int a = r.nextInt(count);
 	
 	
 
